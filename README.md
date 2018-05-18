@@ -2,7 +2,7 @@
 Canmer 用于拍照，裁剪后返回显示图片， 也可以从相册中选择图片，然后显示。
 
 # screenshot
-![](https://github.com/crybobo/Camera/blob/master/screenshot/img1.png =100x100)
+![](https://github.com/crybobo/Camera/blob/master/screenshot/img1.png ){:height="100" width="200"}
 ![](https://github.com/crybobo/Camera/blob/master/screenshot/img2.png)
 ![](https://github.com/crybobo/Camera/blob/master/screenshot/img3.png)
 ![](https://github.com/crybobo/Camera/blob/master/screenshot/img4.png)
