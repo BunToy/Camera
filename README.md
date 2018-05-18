@@ -9,5 +9,5 @@ Canmer 用于拍照，裁剪后返回显示图片， 也可以从相册中选择
 
 
 # Credits
-- [C](https://github.com/crybobo/Camera)
+- [Camera](https://github.com/crybobo/Camera)
 
